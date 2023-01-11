@@ -1,0 +1,28 @@
+# macOS Files
+.DS_Store
+
+# bank statements
+*.pdf
+!abc.pdf
+*.xlsx
+!abc.xlsx
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# R folders
+R/
+
+# Python scripts
+*.py
+
+# templates
+*template.ipynb
+
+# Further SECTIONS
+Part */
+!Part 1 - Data Preprocessing/
