@@ -1,0 +1,781 @@
+date,id,content,sentiment,has_media,views,retweets,replies,user,followers,likes
+2023-01-19 02:55:22+00:00,1615905729654702083,Accurate.,0.4000000000000001,False,3828.0,1,1,tunguz,90940,15
+2023-01-19 02:21:00+00:00,1615897079741571072,We are so early. https://t.co/jKdSMlpPMS,0.1,False,3879.0,1,4,tunguz,90940,35
+2023-01-19 00:01:10+00:00,1615861890739220481,Why cool and waste it when you can boil and taste it. https://t.co/KnBUJynz7v,0.07499999999999998,True,5703.0,6,9,tunguz,90940,56
+2023-01-18 23:46:44+00:00,1615858256471273472,I barely know what a binary tree is. Is that like a decision tree for binary classification?,0.05,False,8774.0,0,11,tunguz,90940,46
+2023-01-18 23:43:05+00:00,1615857338254241792,"Yes, gaslighting is the right term here.",0.2857142857142857,False,4754.0,2,2,tunguz,90940,12
+2023-01-18 21:23:38+00:00,1615822245875666944,We are at the point where most VCs have to divest from web3 startups and go all-in with eggs startups.,0.5,False,5110.0,3,5,tunguz,90940,30
+2023-01-18 21:03:21+00:00,1615817142636617728,Never let your sense of ethics get in the way of doing what feels right.,0.2857142857142857,False,6647.0,0,7,tunguz,90940,37
+2023-01-18 20:47:36+00:00,1615813178642042880,"If you ever find yourself ahead of the pack, prepare to be pelted with stones.",0.0,False,5061.0,6,4,tunguz,90940,40
+2023-01-18 20:31:13+00:00,1615809056039661568,Who else is using Stable Diffusion to get in shape? 🙋‍♂️,0.0,False,12557.0,1,11,tunguz,90940,54
+2023-01-18 19:08:10+00:00,1615788154635825153,I’ve never met a successful startup founder who did not brush his teeth.,0.75,False,31802.0,6,38,tunguz,90940,165
+2023-01-18 18:27:03+00:00,1615777808118349824,"The best tweets, like this one, are all self-referential.",1.0,False,5381.0,0,6,tunguz,90940,31
+2023-01-18 17:13:08+00:00,1615759206467895300,"Anyone working on an egirl-as-a-service startup?
+
+https://t.co/hMn4dwqrO2",0.0,False,4764.0,3,6,tunguz,90940,21
+2023-01-18 17:09:01+00:00,1615758169434906625,Haters will say that this is all derivative synthetic work that feels robotic and unauthentic.,-0.1,False,7132.0,3,15,tunguz,90940,37
+2023-01-18 16:37:12+00:00,1615750160319152128,Chips and salsa. https://t.co/6wrEjxsBzR,0.0,True,9311.0,6,11,tunguz,90940,83
+2023-01-18 15:29:54+00:00,1615733225711624192,"This morning I came across a cool demo by @LinusEkenstam about creating animated AI-generated characters. I decided to give it a try, and, with slight modifications, this is what I ended up with. https://t.co/e2vx9OP0Ls",0.09166666666666666,True,56264.0,46,24,tunguz,90940,343
+2023-01-18 15:18:11+00:00,1615730276298289152,"Twitter should really come up with a professional corporate version of its service. Customized and deployable in-house for each paying business. Corporate communication is still broken, and the existing tools will not fix it. 
+
+1/3",-0.019999999999999997,False,10054.0,5,7,tunguz,90940,52
+2023-01-18 14:32:07+00:00,1615718685452427264,AGI will be able to even.,0.5,False,11308.0,8,8,tunguz,90940,54
+2023-01-18 14:01:05+00:00,1615710872546193413,"If it’s digital, it’s data.",0.0,False,11175.0,16,12,tunguz,90940,104
+2023-01-18 13:57:22+00:00,1615709936989921281,Retvrn to tradition.,0.0,False,3185.0,0,2,tunguz,90940,13
+2023-01-18 13:49:50+00:00,1615708041499770888,“I can fix her.” https://t.co/TRpnyBWBYq,0.0,True,6706.0,3,8,tunguz,90940,69
+2023-01-18 12:42:14+00:00,1615691031890235392,"I’m surprised no one has thought of this idea before.
+
+https://t.co/8RMGy710Ka",0.1,False,7445.0,1,5,tunguz,90940,26
+2023-01-18 12:26:35+00:00,1615687091245006849,This is cool. I almost wish I had waited for the latest Mac Mini upgrades to come out.  https://t.co/TB3S9KRPNF,0.425,False,1924.0,0,0,tunguz,90940,5
+2023-01-18 12:20:53+00:00,1615685657053040642,"More great immunology news.
+
+An RSV vaccine that Moderna is developing significantly reduced the risk of respiratory diseases in a key study, the company said https://t.co/DwyBXDnRKK",0.41875,False,3459.0,4,3,tunguz,90940,22
+2023-01-18 11:35:08+00:00,1615674145802702850,gm fam https://t.co/ubP2H39JVU,0.0,True,6124.0,0,3,tunguz,90940,41
+2023-01-18 01:52:46+00:00,1615527586632794112,XGBoost FTW!!! 💪💪💪,0.0,False,8182.0,1,1,tunguz,90940,57
+2023-01-18 01:09:37+00:00,1615516726698954752,"Men, what’s stopping you from dressing like this? https://t.co/PXjThbK7vM",0.0,True,423045.0,87,555,tunguz,90940,972
+2023-01-17 23:33:07+00:00,1615492441607663616,The Revolution will be tokenized.,0.0,False,8755.0,7,11,tunguz,90940,66
+2023-01-17 21:05:18+00:00,1615455243529068562,Towers make for really bad moats. Especially those made of ivory.,-0.3499999999999999,False,6284.0,1,6,tunguz,90940,32
+2023-01-17 20:52:06+00:00,1615451920109297676,What if all these LLMs turn out to be just cake?,0.0,False,10082.0,5,12,tunguz,90940,53
+2023-01-17 20:17:10+00:00,1615443132774256641,When you ask a memelord to mention your startup in one of his tweets. https://t.co/QVIJNDG8nS,0.0,True,6786.0,3,5,tunguz,90940,81
+2023-01-17 19:16:42+00:00,1615427915251912725,Soon … https://t.co/AV2OsAd7gc,0.0,True,4072.0,0,5,tunguz,90940,12
+2023-01-17 19:04:08+00:00,1615424753283780609,"If you don’t deal with technology, technology will deal with you.",0.0,False,7098.0,8,7,tunguz,90940,81
+2023-01-17 18:37:53+00:00,1615418144654528513,"And you thought we were joking about prompt engineering being the future.
+
+We are so early.",0.05,False,5297.0,2,2,tunguz,90940,18
+2023-01-17 18:20:01+00:00,1615413648469667840,Haters will say that Generative AI content is fake.,-0.5,False,6834.0,6,5,tunguz,90940,54
+2023-01-17 18:11:14+00:00,1615411438209880064,At what point are you no longer considered a “niche account”?,0.0,False,12872.0,1,12,tunguz,90940,26
+2023-01-17 18:01:20+00:00,1615408948881887235,in the long run wagmi,-0.05,False,3033.0,0,3,tunguz,90940,10
+2023-01-17 17:23:46+00:00,1615399492026798080,Why so serious?,-0.3333333333333333,False,5404.0,3,1,tunguz,90940,23
+2023-01-17 17:09:06+00:00,1615395803765571584,Crypto Twitter is the Vegas Strip of Twitter.,0.0,False,3512.0,1,1,tunguz,90940,16
+2023-01-17 16:55:17+00:00,1615392325659656202,Google+ could probably be made with ChatGPT now.,0.0,False,4133.0,1,3,tunguz,90940,16
+2023-01-17 16:53:19+00:00,1615391829767376897,"If US States were villains, according to AI.
+
+Arkansas
+Lousiana
+Indiana
+New York
+
+Credit to urbanamerica on TikTok https://t.co/JEvdmmQ6R5",0.13636363636363635,True,24204.0,10,15,tunguz,90940,152
+2023-01-17 16:39:01+00:00,1615388230958067712,AGI will figure out how to cross all Königsberg bridges exactly once.,0.125,False,7384.0,1,10,tunguz,90940,40
+2023-01-17 15:30:06+00:00,1615370888861601792,The Future could be over before it even starts.,0.0,False,8624.0,1,9,tunguz,90940,40
+2023-01-17 15:26:52+00:00,1615370074482778113,No presentation should be longer than a Twitter thread.,0.0,False,8644.0,6,10,tunguz,90940,75
+2023-01-17 14:54:10+00:00,1615361845782794253,Buckle up sugar cups.,0.0,False,5651.0,3,4,tunguz,90940,44
+2023-01-17 14:29:14+00:00,1615355572215504897,My friend‘s uncle lost all of his money in Tulip mania and he says he’s never seen market conditions this bad. 😬💀,-0.6999999999999998,False,6454.0,0,5,tunguz,90940,34
+2023-01-17 14:22:14+00:00,1615353808271572993,Only the innovative survive.,0.25,False,6405.0,1,5,tunguz,90940,50
+2023-01-17 14:06:06+00:00,1615349748344705024,XGBoost is just the tip of the iceberg. It’s the gateway to the whole wonderful world of Trad ML.,0.6,False,20480.0,7,13,tunguz,90940,137
+2023-01-17 13:44:33+00:00,1615344325000323073,What a start of the week! https://t.co/LbF9C8NxnW,0.0,True,7072.0,10,6,tunguz,90940,119
+2023-01-17 13:15:01+00:00,1615336891875995653,"As one of the most unsurprising moves in tech, @Microsoft has announced that they will incorporate all of @OpenAI tools into their products. In particular, this means a wide availability of ChatGPT in various Office products.
+
+1/9",0.14166666666666666,False,439734.0,224,46,tunguz,90940,1774
+2023-01-17 13:09:00+00:00,1615335379821027330,A good seed is all you need https://t.co/T3vj5nm4RD,0.7,True,6235.0,4,7,tunguz,90940,68
+2023-01-17 12:09:48+00:00,1615320482256920577,"In the long run, the trend toward digital is not going to change. 
+
+“Are you look­ing around the cor­ner ad­equately?”
+
+Adobe CEO Shantanu Narayen discusses volatility in the tech industry, the company’s $20 billion purchase of Figma and setting priorities https://t.co/x7LqhUlMn8",-0.025,False,2384.0,0,0,tunguz,90940,10
+2023-01-17 12:06:12+00:00,1615319574890831874,gm https://t.co/pDcrHmGLgI,0.0,True,4415.0,1,6,tunguz,90940,27
+2023-01-18 17:00:09+00:00,1615755937683496960,Learning to ask the right questions is better than trying to learn all the answers.,0.39285714285714285,False,2458.0,6,1,paulabartabajo_,13853,40
+2023-01-18 14:00:06+00:00,1615710627221364736,"Are you a nerd-ish data scientist who wants to start working as a remote freelancer?
+
+This article is for you  ↓
+https://t.co/5XVDeyKdoK",0.05,False,1995.0,1,2,paulabartabajo_,13853,20
+2023-01-18 11:00:05+00:00,1615665322023088128,"Most data scientists know how to train ML models inside notebooks.
+
+But very few know how to transform these notebooks into *complete* ML solutions that generate business value
+
+Wanna get there and become a top-paid ML engineer?
+
+Check out this tutorial ↓
+https://t.co/mU2zUkc055",0.21,False,5621.0,20,1,paulabartabajo_,13853,72
+2023-01-18 08:00:07+00:00,1615620035011301376,"Wanna learn data science?
+
+Then stop trying to read every paper, article, and blog post that comes into sight.
+
+Instead, start by asking yourself this question:
+
+""What real-world problem am I passionate about?""
+
+Work backward from your end goal.
+
+You will learn tons of things.",0.07500000000000001,False,7683.0,4,7,paulabartabajo_,13853,75
+2023-01-17 14:00:21+00:00,1615348300261232640,"Real-time MLOps is about building, deploying, and maintaining ML solutions that react FAST to new data.
+
+For example ↓",0.1787878787878788,False,15582.0,15,4,paulabartabajo_,13853,65
+2023-01-17 11:00:06+00:00,1615302940402778112,"5 years ago it was enough to know how to train ML models to land a well-paid data science job.
+
+But things have changed.
+
+If you wanna stand out from the crowd and land a job in data science you have to go the extra mile.
+
+You need to build *complete* ML solutions.",0.03333333333333333,False,28177.0,12,4,paulabartabajo_,13853,148
+2023-01-17 08:00:07+00:00,1615257648034635776,"Reinforcement Learning (RL) is the kind of machine learning closest to how humans and animals learn.
+
+It offers us a path toward building general AI systems that can tackle the most complex problems we can think of... ↓",0.19,False,8970.0,13,1,paulabartabajo_,13853,66
+2023-01-16 17:00:33+00:00,1615031261663199247,A good Chief Problem-Solving Officer is all you need.,0.7,False,1996.0,0,0,paulabartabajo_,13853,11
+2023-01-16 14:00:10+00:00,1614985866132455426,"Deep Learning models are very powerful...
+
+... but also extremely fragile to changes in the input distribution.
+
+In this hands-on article, you will learn how to hack DeepMind's Perceiver using adversarial examples ↓
+https://t.co/ITsyxVKArb",0.13,False,1729.0,0,0,paulabartabajo_,13853,22
+2023-01-16 11:00:21+00:00,1614940615661457410,"1) Do you know how to train an ML model inside a notebook?
+
+2) Dreaming of becoming a top-paid ML engineer?
+
+3) Do you know how to build a real-world ML service that generates business value?
+
+If the answers to 1 and 2 are ""YES"" but the answer to 3 is ""NO"" this is for you ↓",0.3833333333333333,False,51758.0,26,4,paulabartabajo_,13853,174
+2023-01-16 08:00:16+00:00,1614895294512234499,"A high-impact data scientist uses
+
+#1  Business context, to find the high-impact problems that need to be solved using data science products.
+
+#2 Coding skills to build these data science products.
+
+#3 (A bit of) Maths to dig deeper into low-level details behind these products.",-0.020000000000000004,False,10964.0,15,2,paulabartabajo_,13853,96
+2023-01-15 09:00:07+00:00,1614547968627179526,It is getting interesting... 🍿 https://t.co/JMrUAmFzy5,0.5,True,1357.0,0,0,paulabartabajo_,13853,2
+2023-01-14 09:00:09+00:00,1614185588957261824,GPU-ligion https://t.co/eXgKHavlCD,0.0,True,973.0,0,0,paulabartabajo_,13853,4
+2023-01-13 17:00:35+00:00,1613944109189976066,This is about to get Real Interesting... https://t.co/tlA0jhNinn,0.75,True,3546.0,2,3,paulabartabajo_,13853,28
+2023-01-13 16:11:22+00:00,1613931719966474240,"I am looking for Senior Prompt Engineers with 5+ years of experience.
+
+Can you recommend me anyone?",0.0,False,7125.0,3,6,paulabartabajo_,13853,30
+2023-01-13 14:00:13+00:00,1613898717542899720,"Wanna escape the rat race?
+
+Become a top freelance data scientist.
+
+This eBook will put you on the right track ↓
+https://t.co/vf4G2rAVMH",0.39285714285714285,False,947.0,0,0,paulabartabajo_,13853,7
+2023-01-13 11:00:06+00:00,1613853389959598081,"3 ways to test if your ML model *works* in a real-world problem:
+
+1 → Backtest
+2 → Shadow deployment
+3 → A/B test
+
+Wanna learn the details behind these?
+
+Check this article ↓
+https://t.co/cQFmKTDpJt",-0.1,False,9678.0,18,4,paulabartabajo_,13853,87
+2023-01-12 17:00:35+00:00,1613581719420141568,"My first real-world batch-scoring system used:
+
+• Redshift as the raw data source
+• A cron job + SQL to generate features and targets
+• ECS2 instance as my compute layer.
+• S3 bucket to store the model predictions.
+• Tableau to monitor the model.
+
+My advice: Don’t do it.",0.07307692307692308,False,4580.0,3,5,paulabartabajo_,13853,44
+2023-01-12 14:00:12+00:00,1613536325722071041,"What is the point of building a very accurate credit card fraud detection system that generates predictions...
+
+... way AFTER the fraud has happened?  💳 😵 ↓↓↓",0.5200000000000001,False,8841.0,5,5,paulabartabajo_,13853,42
+2023-01-12 11:00:09+00:00,1613491013900980225,"You can think of real-world ML datasets either
+
+→ as an infinite sequence of CSV/Parquet files 😵
+→ or 1 feature store, you call whenever you need data  🧠
+
+Choose wisely.",0.44999999999999996,False,2152.0,1,0,paulabartabajo_,13853,20
+2023-01-12 08:00:06+00:00,1613445702163787776,ChatGPT = Weapon Of Mass Productivity,0.0,False,9398.0,3,4,paulabartabajo_,13853,88
+2023-01-11 17:00:18+00:00,1613219259651600388,"Trying to do MLOps without a Feature store is like trying to go to the Moon without a bag of oxygen.
+
+Sure, you can get there without it.
+
+You *just* need to take a deep breath before you live this planet.",0.21212121212121213,False,1925.0,2,0,paulabartabajo_,13853,13
+2023-01-11 14:00:08+00:00,1613173918923382790,"Engineering features for your ML model is 90% of the job.
+
+Training a model is 10% of the job.
+
+This is why a Feature Store is the main component of any **productive** ML engineering team.
+
+Enable features re-usability.
+Avoid training-serving skew.
+And (finally) ship ML models. https://t.co/Hv7PuUIBGJ",0.08333333333333333,True,5322.0,16,0,paulabartabajo_,13853,83
+2023-01-11 11:00:08+00:00,1613128619882319872,"A batch-scoring ML system in production is worth 1,677,678 streaming systems in development.",0.3,False,2587.0,2,0,paulabartabajo_,13853,25
+2023-01-11 08:00:08+00:00,1613083323836018689,"Landing a Machine Learning job is like a game.
+
+You need to play it differently if you wanna win.
+
+Stop
+⛔  dreaming of becoming an ML engineer.
+⛔ watching Youtube videos.
+⛔ reading Twitter threads.
+
+Enough of all that.
+GO build something TODAY 🏗️",0.17,False,15723.0,21,2,paulabartabajo_,13853,134
+2023-01-10 17:00:22+00:00,1612856890400321537,A good prompt is all you need.,0.7,False,4171.0,0,2,paulabartabajo_,13853,19
+2023-01-10 14:00:19+00:00,1612811579355168768,"Not having a Feature Store is THE main reason you (and your company) are not shipping ML models to production.
+
+Here is the simplest way to add a Feature Store to your stack, using only Python 🐍↓",0.08333333333333333,False,27258.0,19,1,paulabartabajo_,13853,134
+2023-01-10 11:00:11+00:00,1612766245832785920,"No more reading blog posts about time-series forecasting.
+It is time to forecast for real. 😎
+
+Here is a project you can build
+https://t.co/77Qxo5hUMH",-0.024999999999999994,False,2172.0,4,0,paulabartabajo_,13853,39
+2023-01-10 08:00:08+00:00,1612720934393360384,"Behind every great image, there is an even greater prompt.",0.3,False,3057.0,2,1,paulabartabajo_,13853,25
+2023-01-09 17:00:18+00:00,1612494484557926401,"Wanna become a top-paid data scientist and work remotely for top companies and startups?
+
+Embark on the freelance path.
+
+In this eBook, you will find 5 actionable steps you can take today.
+
+Join my e-mail list and get your copy for FREE ↓
+https://t.co/vf4G2rAVMH",0.325,False,1648.0,0,0,paulabartabajo_,13853,8
+2023-01-09 14:00:15+00:00,1612449173022072832,"A common belief among data scientists is that
+
+""a feature store is only necessary when you have 100s of ML models in production""
+
+This is NOT true.
+
+Not having a Feature Store is THE main reason why you (and your company) are not shipping ML models to production.",-0.06166666666666667,False,8109.0,6,4,paulabartabajo_,13853,52
+2023-01-09 11:00:22+00:00,1612403902418391040,"Ready to share your ML project with the world?
+
+Then build a Streamlit app and deploy it.
+
+Read this article to learn how ↓
+https://t.co/xAqxm68F1b",0.2,False,3972.0,9,2,paulabartabajo_,13853,53
+2023-01-09 08:00:15+00:00,1612358576554782722,"Hyperparameters in Deep Reinforcement Learning are critical to training successful agents.
+
+In this article, you will learn how to find the ones that make you a happy Deep RL developer 😊 ↓
+https://t.co/PeLcCKrLsW",0.31,False,2340.0,4,0,paulabartabajo_,13853,22
+2023-01-08 14:00:57+00:00,1612086959953821698,https://t.co/RSSVnxfsOW(),0.0,False,1470.0,1,0,paulabartabajo_,13853,4
+2023-01-08 09:00:05+00:00,1612011245162622976,"Let your datasets take a break, it's Sunday 😄",0.0,False,4129.0,0,1,paulabartabajo_,13853,28
+2023-01-07 09:00:06+00:00,1611648862258884608,from weekend import is_saturday,0.0,False,3603.0,1,3,paulabartabajo_,13853,24
+2023-01-06 19:09:22+00:00,1611439802016239616,$ docker run pineapple https://t.co/g4ccHf90kU,0.0,True,2204.0,0,0,paulabartabajo_,13853,17
+2023-01-06 17:00:29+00:00,1611407366007984129,"Wanna build a real-world MLOps project?
+
+Here is an idea 🤗 ↓
+https://t.co/SHQpyCf6Cy",0.2,False,2164.0,5,1,paulabartabajo_,13853,27
+2023-01-06 14:00:05+00:00,1611361968837001216,"4 steps to build a real-world Machine Learning product
+
+1. Understand the business problem
+2. Prepare the data
+3. Train a good-enough model
+4. Operationalize the model (MLOps)",0.3,False,7202.0,10,1,paulabartabajo_,13853,81
+2023-01-06 11:00:08+00:00,1611316683721052160,"Water falls from the sky.
+Clean data doesn't.",0.3666666666666667,False,9067.0,17,4,paulabartabajo_,13853,89
+2023-01-05 14:00:14+00:00,1610999618434912258,"Overwhelmed by the massive amount of Data Science courses to choose from? 🤯
+
+There is a better way to learn data science 🧠
+And to land a job 💼
+
+Here it is ↓",0.25,False,62359.0,96,11,paulabartabajo_,13853,420
+2023-01-05 11:00:15+00:00,1610954325534343169,"Advice for ML beginners 💡
+
+Do not learn, and then build.
+Build, and then learn. https://t.co/ieXn39gT5g",0.0,True,28675.0,19,12,paulabartabajo_,13853,311
+2023-01-05 08:00:06+00:00,1610908987444318213,"What is the dot product between
+- Your passion, and
+- Your job
+? https://t.co/DPHgTOZQIP",0.0,True,10307.0,5,8,paulabartabajo_,13853,94
+2023-01-04 17:30:55+00:00,1610690251676323840,"Wanna write from scratch a Reinforcement Learning agent, that can land on the Moon?
+
+Follow this hands-on tutorial ↓
+https://t.co/TIianFm5AR",0.0,False,1693.0,2,0,paulabartabajo_,13853,10
+2023-01-04 14:00:24+00:00,1610637271266660352,"Advice for ML beginners 💡
+
+Tired of spending too much time trying to package your Python code?
+
+Python Poetry makes packaging and dependency management easy. It is open-source, free, and has great documentation ↓
+https://t.co/NceZNmn2ZR",0.2388888888888889,False,34801.0,90,8,paulabartabajo_,13853,398
+2023-01-04 11:00:06+00:00,1610591896203845632,"ML is about building models.
+MLOps is about putting these models to work.",0.0,False,14859.0,17,4,paulabartabajo_,13853,181
+2023-01-03 17:00:11+00:00,1610320127396048900,"""Get away from me!""
+-- said the test data to the training data",0.0,False,3445.0,0,3,paulabartabajo_,13853,43
+2023-01-03 14:00:05+00:00,1610274804959174658,"There is one skill every professional data scientist must have, that no online course talks about 🤔
+
+🧵↓",0.1,False,114003.0,120,19,paulabartabajo_,13853,464
+2023-01-03 11:00:13+00:00,1610229539149611008,"Looking for a hands-on course on Reinforcement Learning?
+
+This one is for you ↓
+https://t.co/PHKQloXzVO",0.0,False,4878.0,16,1,paulabartabajo_,13853,69
+2023-01-03 08:00:09+00:00,1610184224312811520,"Wanna learn Machine Learning?
+
+Read less.
+Build more. https://t.co/zVdclecGZA",0.16666666666666669,True,19399.0,24,8,paulabartabajo_,13853,223
+2023-01-02 17:00:35+00:00,1609957841766612992,"Tired of working 9-to-5?
+
+Wanna become a top data science freelancer?
+
+Get for FREE my eBook ""How to become a freelance data scientist"". ↓↓↓
+https://t.co/vf4G2rAVMH",0.16666666666666666,False,2413.0,2,1,paulabartabajo_,13853,20
+2023-01-02 14:00:11+00:00,1609912442473316354,"How do you put your ML models to work?
+
+3 ways:
+
+1. Batch: The model generates predictions on a fixed schedule (e.g. every hour)
+
+2. Request-response: The model is exposed as a backend API.
+
+3. Stream: The model continuously generates prediction on the most recent stream data.",0.19999999999999998,False,8114.0,12,1,paulabartabajo_,13853,120
+2023-01-18 14:08:14+00:00,1615712674267947008,"We've officially partnered with @TheDataIQ! 🎉
+
+The opportunity builds on our recent achievements from winning Most Innovative Use of AI and the Grand Prix award in 2021, to our colleague, Wade Munsie, picking up the Global Data and Analytics Leader of the Year award in 2022. https://t.co/9emfiLFi8v",0.3333333333333333,True,392.0,0,1,quantumblack,7131,1
+2023-01-17 16:00:35+00:00,1615378559866138625,Roll call! 📣 What has been your most successful ChatGPT prompt in 2023?,0.625,False,868.0,0,1,quantumblack,7131,0
+2023-01-16 14:00:00+00:00,1614985824889610242,"Today is Martin Luther King Jr. day.
+
+How does his message of justice and equality apply to the development of AI? 🧠
+
+#MLKDay #AIethics #AIbyMcKinsey #EthicalAI",0.0,False,402.0,0,0,quantumblack,7131,2
+2023-01-13 16:10:38+00:00,1613931538173005824,"If you’re a data scientist looking for inspiration in 2023, check out our Technical Writer, Jo Stichbury's (@fluffymaccoy) engineering best practices to achieve long-term analytic success.👇
+
+#DataScience #SoftwareEngineering #Software",0.3125,False,440.0,1,0,quantumblack,7131,1
+2023-01-13 13:00:38+00:00,1613883723379875840,"AI can speed up drug discovery, changing the lives of patients for the better. 
+
+Here’s how AI is transforming the world of therapeutics. 👇 https://t.co/jFkLdUOyr5
+
+#McKinseyonAI #LifeSciences #DataScience https://t.co/O5ecxMOS0V",0.5,True,404.0,1,0,quantumblack,7131,3
+2023-01-12 15:00:06+00:00,1613551399807197189,"Last year, we shared these images of some of our tech talent reading about why it’s important to make happiness a KPI for tech talent in 2023. 
+
+Explore why it's critical if you’re wanting to continuously solve big challenges: https://t.co/90MM03y5e0 https://t.co/0uj99YA2W1",0.22000000000000003,True,587.0,0,1,quantumblack,7131,3
+2023-01-11 08:00:02+00:00,1613083299643117569,"Happy birthday to C.A.R. Hoare, developer of the Axiomatic Approach in programming! 🧑‍💻
+
+This approach helps programmers ensure the reliability of important systems, to improve safety and outcomes. It's hugely important today!
+
+#AnalyticsNuggets #AnalyticsFacts #AIbyMcKinsey https://t.co/GFiGfKAgVT",0.4,True,355.0,0,0,quantumblack,7131,3
+2023-01-10 19:30:51+00:00,1612894758216540223,"Alison, Robyn, and Amir explore what it's like to be a data scientist at QuantumBlack, the feeling when models are performing, and how they've applied AI to solve challenges at scale. Watch below. 👇
+
+#DataScience #DataScientists #LifeatQB https://t.co/41eQtgA0f7",0.0,True,1885.0,0,0,quantumblack,7131,6
+2023-01-09 17:02:01+00:00,1612494914796879872,"New year, new data models",0.13636363636363635,False,1582.0,0,0,quantumblack,7131,8
+2023-01-09 14:00:00+00:00,1612449110262439936,"When investing in #AI technology, less is more.
+
+We're sharing how some organizations are doubling down and proving it’s possible to do more AI in less time and effort in this @FortuneMagazine article ➡️ https://t.co/WEOKrOju73
+
+#QuantumBlack #AIbyMcKinsey",0.0851851851851852,False,381.0,1,0,quantumblack,7131,1
+2023-01-06 13:00:02+00:00,1611346854075142144,"How can we continue to elevate data engineering roles and build high-performing data teams?
+ 
+Find out in part one of our three-part Medium series 👉 https://t.co/sTGh58qcg4 https://t.co/blCVxSHzLP",0.16,True,2105.0,6,0,quantumblack,7131,11
+2023-01-05 15:00:00+00:00,1611014660236386310,AI/ML is quickly transforming a vast array of industries. Here is some #RecommendReading to get stuck into as we kick off the new year. ⬇️,0.15656565656565655,False,652.0,2,1,quantumblack,7131,2
+2023-01-04 08:00:01+00:00,1610546576539238403,"On this day in 1972, the first handheld scientific calculator was born!
+
+It was more precise than most computers back then, and was called HP-35 due to… a certain design feature.
+
+Can you guess where the “35” comes from? 🕵️
+
+#AnalyticsFacts https://t.co/BbAWnqw0mE",0.24846938775510202,True,2541.0,5,2,quantumblack,7131,14
+2023-01-02 14:00:00+00:00,1609912396151128071,"Our #QuantumBlack team has shared their highlights from 2022 and what they want to see more of in the new year for AI. 
+
+From responsible AI to making LLMs interact with the outside world, we can't wait to see what predictions will become a reality in 2023! 
+
+#AIbyMcKinsey",0.2090909090909091,False,735.0,0,0,quantumblack,7131,2
+2023-01-01 14:00:05+00:00,1609550030087618561,"Happy New Year! 2023 is here… 
+
+What do you think we’ll see happen in the world of data science in the year ahead? 👇
+
+#NewYearsDay #NewYear #2023 #LifeatQB https://t.co/6tKVrN3jIN",0.4681818181818182,True,619.0,0,0,quantumblack,7131,1
+2022-12-28 08:00:01+00:00,1608009862046179328,"Looking for some insightful reading over the holidays? Here are the most read articles and Medium blogs on #data and #analytics topics in 2022! 👇 🧠
+
+#RecommendedReading #QuantumBlack #DataScience https://t.co/gmKf45Bzz4",0.5,True,2956.0,2,1,quantumblack,7131,9
+2022-12-27 09:00:07+00:00,1607662601978126338,"Digital twins are already helping organizations get answers to ‘what if’. Find out why digital twins are being adopted, why AI is at their core, and how to get started -&gt; 
+
+Start your journey: https://t.co/Bod5KcfFZ2 
+
+#DigitalTwins #Metaverse https://t.co/HNxOcrZurG",0.0,True,461.0,0,0,quantumblack,7131,2
+2022-12-25 14:00:15+00:00,1607013354941419521,"Wishing you a warm and bright holiday season from all of us at #QuantumBlack 🎄
+
+#Holidays #LifeatQB https://t.co/KdQ82EJ4Cd",0.65,True,873.0,1,0,quantumblack,7131,5
+2022-12-22 15:00:08+00:00,1605941261843701763,"Scaling AI adoption can feel overwhelming, but there are proven ways to succeed – in fact, it takes 8 steps! 👇
+
+Explore more 👉 https://t.co/noIXMR537e 
+
+#StateofAI2022 #AIbyMcKinsey #AI https://t.co/xGfbmORWY6",0.5,True,360.0,0,0,quantumblack,7131,1
+2022-12-21 11:15:22+00:00,1605522309070069762,"With generative AI, computers can now produce original content in response to queries, allowing them to write computer code or even sketch package designs.  
+ 
+Explore our insights on the surge in generative AI systems 👉 https://t.co/4T3dT2Oe59
+
+#ArtificialIntelligence #ChatGPT",0.375,False,292.0,0,0,quantumblack,7131,2
+2022-12-20 09:00:06+00:00,1605125882951106560,"We’ve all learned a programming trick or two from one great mentor in our lives. Who was it for you, and what was their most valuable lesson? https://t.co/H8jtqYSY9e",0.65,True,550.0,0,1,quantumblack,7131,1
+2022-12-19 14:00:03+00:00,1604838977927880709,"QuantumBlack joined McKinsey on December 14, 2015 with the vision to analyze data at scale to optimize the performance of engineering teams and whole organizations.
+
+Let’s look back at our journey so far. 👇",0.10000000000000002,False,1447.0,1,1,quantumblack,7131,10
+2022-12-16 13:00:27+00:00,1603736815583764482,"QuantumBlack, AI by McKinsey has launched in the Middle East! 
+
+This new opportunity will allow our teams to transform organizations! We are excited to see where it will take us. 👇 
+
+#QuantumBlack #AIbyMcKinsey https://t.co/cjO3UATgkA",0.17045454545454544,True,368.0,1,0,quantumblack,7131,1
+2022-12-15 16:15:18+00:00,1603423462319693825,"What can #data practitioners expect from December's update to #Kedro? Our latest Medium article describes updates to Kedro, the open-source #Python framework.
+
+https://t.co/pRtbK8jie9",0.25,False,,1,0,quantumblack,7131,0
+2022-12-14 23:34:00+00:00,1603171479977443330,"Did you know AI plays a part in helping food get to you? Here are some examples of how it works.  👇
+
+#AnalyticsNuggets https://t.co/rsz83xeSjL",0.0,True,,1,1,quantumblack,7131,0
+2022-12-13 21:35:01+00:00,1602779146802823169,"There’s a wide talent gap in quantum computing right now and yet, artificial intelligence has the potential to create value, particularly, for advanced industrial companies like never before. 👇 https://t.co/oNIKiL7ak2
+
+#AIbyMcKinsey #QuantumComputing https://t.co/I87Nsl0Cf3",0.025396825396825404,True,,1,0,quantumblack,7131,1
+2022-12-12 17:06:51+00:00,1602349274255310848,"If nearly half of all respondents are internally reskilling employees around AI, what are high performers doing differently? 
+
+Read our analysis in #StateofAI 2022 
+
+https://t.co/noIXMR537e https://t.co/uTRonBX34V",-0.0016666666666666635,True,,0,0,quantumblack,7131,0
+2022-12-09 13:00:02+00:00,1601199995021103104,"116 years ago today, the modern mother of computing (and computer bugs) #GraceHopper was born. Here are some of Admiral Hopper’s achievements: 
+
+- Was one of the first women to ever work on a computer 💻
+- Invented the first compiler 🧑‍💻
+- Discovered the first bug 🪰
+
+#STEM https://t.co/KaYNHGACbR",0.2375,True,,0,1,quantumblack,7131,2
+2022-12-07 16:00:00+00:00,1600520510592491521,"Sameer Gupta, DBS’s chief analytics officer, sat down to discuss how the company has used MLOps to scale AI.
+
+Read his tale of boldness, pragmatism and AI development 👉 https://t.co/gQmKb2yhNQ 
+
+#AIbyMcKinsey #MLOps #ArtificialIntelligence",-0.15555555555555559,False,,0,0,quantumblack,7131,1
+2022-12-06 13:20:21+00:00,1600117946508099585,"We’re at a turning point for artificial intelligence. 🧠
+
+Our 2022 global survey is out, with plenty of insights from top AI performers! 👇
+
+See all our findings and learn more on the current state of AI. 
+
+#AIRisk #McKinseyOnTalent #StateOfAI2022",0.08,False,,3,0,quantumblack,7131,1
+2022-12-05 14:00:00+00:00,1599765534815526912,"There are still many challenges to wide adoption of #AI in #healthcare.
+
+Our Associate Partner @liz_grennan &amp; our Partner Jessica Lamb spoke to @carnegiecouncil for a podcast on AI, bias, ethics &amp; responsibility.
+
+Listen below:
+https://t.co/TKiHRBmhGd 
+
+https://t.co/mg3dwyL3am",0.2,False,,1,0,quantumblack,7131,3
+2022-12-02 16:46:25+00:00,1598720250366803969,"🏆 We’ve won two Global Excellence Awards! 🏆
+
+Run by @TheAIJournal1, the awards celebrate the immense contributions that machine learning is delivering. Really proud of both our AI for Data Quality (AI4DQ) and Vistra Corp teams - congratulations to everyone involved! 🎉 https://t.co/E0R0BPzq3q",0.26666666666666666,True,,0,0,quantumblack,7131,2
+2022-12-02 13:00:12+00:00,1598663322764730372,"A few weeks ago we asked you about CPUs and their computing power. Do you know the difference with a GPU? 🧠👇
+
+Which one would you use to train a machine learning model? 👀
+
+#AnalyticsNuggets #AIbyMcKinsey https://t.co/twJF8M4k4S",-0.2,True,,0,0,quantumblack,7131,0
+2022-12-01 12:36:29+00:00,1598294966454915073,"We’ve been ranked as Leader in the Forrester Wave™ AI Consultancies, Q4 2022 report! 🥳
+
+This is a great recognition for the #QuantumBlack community!
+
+We’ll keep innovating and solving complex challenges with AI.
+
+Read more here: https://t.co/eIZ09e8Ii3
+
+#ForresterWave https://t.co/DlAHU22LLA",0.3333333333333333,True,,0,0,quantumblack,7131,0
+2022-11-30 08:00:01+00:00,1597863003382337536,"The compute power and hyperscale of cloud helped  unleash the power of AI. New @McKinsey research projects $3 trillion in value could be unleashed globally by 2030 globally https://t.co/fkfYKzc6vP
+
+#CloudValue2022 https://t.co/edMRcDUD0h",0.04545454545454545,True,,0,0,quantumblack,7131,0
+2022-11-29 16:00:00+00:00,1597621407525093383,"What are the eight traits of a great data practitioner? 
+ 
+Our latest article on Medium explores the characteristics of #dataengineers and how they can best collaborate to deliver successful project: https://t.co/IK1GockFst",0.7625,False,,0,0,quantumblack,7131,1
+2022-11-29 10:12:26+00:00,1597533940897968128,"Join Dr Chris Anagnostopoulos and other industry leaders for this year’s Digital Ethics Summit where he will discuss the interplay between technology and culture in the digital ethics debate. 
+ 
+🎟 Book here: https://t.co/iuqHuz26cY 
+ 
+#DigitalEthics #McKinseyonAI #Data @TechUK https://t.co/bn6pYmhkPd",-0.041666666666666664,True,,3,1,quantumblack,7131,4
+2022-11-24 13:18:29+00:00,1595768820865634308,Proud to announce AI for Data Quality has been shortlisted for 2 @TheAIJournal1 Excellence Awards. AI4DQ is an AI-driven toolkit that can be deployed to rapidly to identify data quality issues and recommend steps to repair them. Congratulations to the team behind this project! https://t.co/JYqbUe01p3,0.2,True,,0,0,quantumblack,7131,1
+2022-11-22 14:00:28+00:00,1595054609839656966,"We’ve come a long way since our days in F1 – but our mission stays the same: to drive positive change with AI.
+
+Watch below for a sneak peek into our global community and see how we’ve grown in the past 13 years! 👇
+
+#QuantumBlack #AIbyMcKinsey #HybridIntelligence https://t.co/SbS6xMD1ag",-0.01454545454545455,True,,1,0,quantumblack,7131,4
+2022-11-21 14:00:02+00:00,1594692111584174080,"Helping more women into tech is an important part of what we do here at #QuantumBlack. 
+
+That’s why we’ll be attending the @WiMLworkshop annual workshop at @NeurIPSConf on 28th November!
+
+Found out more here 👉 https://t.co/vKigGb7mtg
+
+#WiML2022 #WomeninSTEM https://t.co/rHrFZH8m4I",0.4666666666666666,True,,0,0,quantumblack,7131,2
+2022-11-18 13:00:02+00:00,1593589852397867010,"How many of you were at #WebSummit? Tom, Merel and Nero from our Labs team popped to Lisbon to get a pulse on making the future. https://t.co/77T6dxIbHe",0.25,True,,1,0,quantumblack,7131,2
+2022-11-17 17:00:42+00:00,1593288028562534400,"What is MLOps? This explainer is a good place to start. Why do CEOs need to care about MLOps? Find out here: https://t.co/4VL7iKVDKh 
+ 
+#QuantumBlack #AIbyMcKinsey #MLOps #AIrisk #ArtificialIntelligence https://t.co/TIApwmTHEM",0.7,True,,0,0,quantumblack,7131,2
+2022-11-17 15:00:02+00:00,1593257662300536832,"1/6 #Thread #Kedro 2022 
+Back in 2019, we made Kedro open-source to help solve a common challenge with maintaining data pipelines. https://t.co/w5AfcSejyG",-0.09999999999999999,True,,4,1,quantumblack,7131,3
+2022-11-16 15:59:35+00:00,1592910261509591041,"We’ve come a long way since the first CPU! Back in 1971, a microprocessor held 2,300 transistors. 
+
+How many can a CPU hold today? 👀
+
+#AnalyticsFacts #QuantumBlack",0.175,False,,0,0,quantumblack,7131,0
+2022-11-15 18:00:00+00:00,1592578177351786498,"As we enter the peak product buying season of the year — are you checking data and AI policies of products you buy? 
+
+Our research shows it matters for consumers. Here's why #DigitalTrust matters 👇 
+
+https://t.co/T1pNidKlEb 
+
+#QuantumBlack #Data #AIrisk #Trust https://t.co/aLIpr34nNO",0.0,True,,0,1,quantumblack,7131,2
+2022-11-11 13:00:04+00:00,1591053143621632002,"At the EMEA Analytics, Data &amp; IoT Summit, our team talked about the ways to use data &amp; analytics for business transformation but also for good. Topics included: https://t.co/MDyKv5lazy",0.7,True,,0,1,quantumblack,7131,1
+2022-11-10 18:00:09+00:00,1590766274174488582,"AI isn’t a one-size-fits-all solution and to maximize its true potential, the right amount of human oversight is required.
+ 
+Learn more in our latest @WIRED article. Grab a copy in person like we did, or check it out here 👉 https://t.co/V7vxrrjPX3
+
+#QuantumBlack #McKinseyonAI https://t.co/Eezq0UiFMz",0.2726190476190476,True,,0,0,quantumblack,7131,0
+2022-11-10 15:00:01+00:00,1590720940580618240,"#QBMeetup: Join us in person, or online, for our Boston Data Engineering Meetup exploring composable DataFlows and how to get data to play nicely together. To register -&gt; https://t.co/OUCa807fEq 
+
+Key speaker: @ToddCioffi, VP of Enablement at Composable Analytics / @DataFlowLabs https://t.co/NrmgjvmM95",0.3,True,,0,0,quantumblack,7131,0
+2022-11-08 16:25:35+00:00,1590017701497413633,"Building trust in #AI and data not only meets consumer expectations but also promotes growth.
+
+To create #trust, models must be designed to guide fair decisions and mitigate ingrained #biases. Our latest article explores what practitioners can do to help.",0.39999999999999997,False,,1,0,quantumblack,7131,1
+2022-11-03 15:00:01+00:00,1588184228520513538,"Ever heard of class imbalance? It’s a common form of bias in AI!
+ 
+Any dataset where a label is largely less common is experiencing class imbalance. Once it's identified, the data team can work on increasing true distribution, to reduce the risk of bias.
+
+#AnalyticsNuggets https://t.co/iFo37QNzXI",-0.10416666666666666,True,,0,0,quantumblack,7131,2
+2022-11-02 16:00:00+00:00,1587836934977634315,"In a recent interview, we’ve learned how data and analytics have helped HSBC better serve customers.
+
+Read more about @HSBC and its data transformation 👉 https://t.co/yKyjjNfgzM
+
+#AdvancedAnalytics #AIbyMcKinsey",0.3333333333333333,False,,0,0,quantumblack,7131,0
+2022-11-02 08:00:12+00:00,1587716187588157440,"The adoption of AI is accelerating; by 2025, smart workflows and automations will be as common as a spreadsheet!
+
+In 2021, our global survey found that 56% of companies have adopted AI in at least one business function.
+
+What do you think that number is going to be this year? 🕵️ https://t.co/gP9IU3oqyY",-0.09642857142857142,True,,1,0,quantumblack,7131,0
+2023-01-18 13:00:09+00:00,1615695540486049796,"Forget the hype for a second.
+
+Gradient Boosted Trees is the most popular machine learning technique in the industry right now.
+
+In computer vision, ResNets are by far #1.
+
+If you want to build useful skills, XGBoost and ConvNets have a lot to offer.",0.2976190476190476,False,110619.0,74,24,svpino,228565,717
+2023-01-17 13:00:05+00:00,1615333133649600519,"Most people don't know this:
+
+MNIST is the most popular dataset in Machine Learning, but despite millions of people trying, there has never been a model that solves it with 100% accuracy.
+
+And I just found out why and how to fix it!
+
+1 of 5",0.5333333333333333,False,360539.0,202,36,svpino,228565,1273
+2023-01-16 19:00:04+00:00,1615061340556791808,"If you are looking for an account consistently sharing Machine Learning resources, follow @abacusai.
+
+It doesn't matter where you are in the learning process. There will have something for you!",0.25,False,24168.0,6,4,svpino,228565,62
+2023-01-16 13:00:10+00:00,1614970769116889093,"My entire Master's program is free online.
+
+Yet most people won't go through it because they won't get a certificate.
+
+If you want to take the same classes I took to get my Master's degree, here they are: https://t.co/nppHPfiqqt",0.225,False,702314.0,1639,112,svpino,228565,6653
+2023-01-15 13:00:10+00:00,1614608379019943936,"I won't ever write code without ChatGPT.
+
+Never, ever again.
+
+10 ideas that will 10x your productivity overnight: https://t.co/dpMKFDI4nM https://t.co/53fpKqRMuh",0.0,True,169033.0,229,40,svpino,228565,1150
+2023-01-14 19:00:06+00:00,1614336574636056576,"Forget about ChatGPT for a second, and let's focus on what pays the bills:
+
+If you want to make money with machine learning today, Forecasting is one of the best skills you can build.
+
+Mark went above and beyond with this course!
+
+Register here: https://t.co/scPQFleg1R https://t.co/NglJWsL7h5",0.3333333333333333,True,269756.0,400,31,svpino,228565,2195
+2023-01-14 13:00:10+00:00,1614245990789447681,"Here is a picture of my collection of Machine Learning books.
+
+No, I haven't read them all. https://t.co/yVTSp83q55",0.0,True,121944.0,162,53,svpino,228565,1314
+2023-01-13 21:27:23+00:00,1614011251004248064,"Edmund doesn't have Tesla as the best electric SUV in any category.
+
+• Best electric SUV: Kia Niro EV
+• Best AWD electric SUV: Hyundai Ioniq 5
+• Best luxury AWD electric SUV: BMW iX xDrive50
+• Best performance electric SUV: Genesis GV60
+
+What is the case in favor of Tesla?",1.0,False,58855.0,5,32,svpino,228565,73
+2023-01-13 20:17:40+00:00,1613993704452198400,"If we are doing this in 3 years to get AI to do what we want, we utterly failed. https://t.co/VXQqwXO4tD",-0.5,True,40944.0,11,17,svpino,228565,96
+2023-01-13 19:00:06+00:00,1613974183788318720,"Prompt engineering will not become a thing.
+
+It was a temporal hack. Something we had to do but won't need anymore.
+
+ChatGPT is an excellent example of a model that understands what we want without needing clever prompts.",0.5833333333333334,False,88036.0,26,64,svpino,228565,364
+2023-01-13 13:29:45+00:00,1613891047427575812,"I spent 6 months learning SQL.
+
+That was back in 2000. I wasn't quite sure how useful that was going to be.
+
+20 years later, this was one of the best investments I've made.",0.2833333333333333,False,308532.0,152,71,svpino,228565,1793
+2023-01-12 13:03:10+00:00,1613521972222365698,Open this if you want to see how ChatGPT built all my code.,0.0,False,814042.0,996,112,svpino,228565,5255
+2023-01-11 13:00:15+00:00,1613158850844319744,"ChatGPT has taken the world by storm, but that's just the beginning.
+
+The true disruption comes from applications that fine-tune AI models to 10x our productivity overnight.
+
+@AkkioHQ is one of those examples. If you work with data and spreadsheets, you can't afford to miss this:",0.3833333333333333,False,244004.0,309,49,svpino,228565,1410
+2023-01-10 23:36:44+00:00,1612956637077307392,"This is not entirely accurate.
+
+First, this doesn't represent how much data these models were trained on. It represents the number of parameters (capacity) of the models.
+
+Second, there've been rumors suggesting GPT-4 will only be slightly larger than GPT-3.
+
+Time will tell.",0.041666666666666664,False,74280.0,36,21,svpino,228565,272
+2023-01-10 14:53:05+00:00,1612824858555219970,"This has become one of my favorite ways to study:
+
+Ask ChatGPT to analyze a text and ask you questions about it. 
+
+You can go with simple questions or ask for more unusual or complex ones. https://t.co/pnE7ZFUaQf",0.18,True,295519.0,314,49,svpino,228565,2325
+2023-01-10 13:00:07+00:00,1612796428476370944,"I work a lot with datasets of images, and analyzing and exploring the data it's always a mess.
+
+Kangas is an open-source library that helps tremendously!
+
+It only takes a few lines of code, and you can load and display the data in a notebook. As it should be!",-0.09375,False,61148.0,28,4,svpino,228565,202
+2023-01-09 19:00:06+00:00,1612524632028119041,"Tomorrow is the StateOfTheArt() conference!
+
+Sebastian Raschka @rasbt is hosting a panel you don't want to miss.
+
+If you want to stay up to date with the latest in the AI/ML field, @abacusai's conference is a must!
+
+Register to attend online: https://t.co/zu0EN2n0rJ",0.5,False,25874.0,16,4,svpino,228565,60
+2023-01-09 16:00:31+00:00,1612479439333462023,How long before anyone can query a database without having to learn SQL? https://t.co/3ePKFQ0Xft,-0.05,True,515307.0,461,197,svpino,228565,4110
+2023-01-09 13:00:10+00:00,1612434054556844032,"Concerns about sharing proprietary code with ChatGPT are overblown.
+
+Many argue against giving OpenAI your IP and why ChatGPT shouldn't be used by developers working on non-open source projects.
+
+This is corporate bullshit.",0.16666666666666666,False,88011.0,20,19,svpino,228565,250
+2023-01-08 14:15:52+00:00,1612090716481806337,"I looked at 10.3 million job posts in the US.
+
+I wanted to answer one simple question:
+
+Do you need a graduate degree to get a job as a data scientist?
+
+Here is the story: https://t.co/XZ9KMQFDHG https://t.co/fCKywP3Euh",0.0,True,72170.0,24,11,svpino,228565,183
+2023-01-07 14:09:42+00:00,1611726774206881794,"Imagine being a manager who tells their team they would be fired if they use ChatGPT because the company pays them to write code, not a ""chat AI.""
+
+People don't know what's about to hit them.
+
+2023 will be wild.",0.1,False,208560.0,150,102,svpino,228565,1446
+2023-01-07 13:00:11+00:00,1611709280297844736,"One of the secrets behind YouTube, Amazon, and Netflix's money-making engines:
+
+Their machine learning technology—specifically, their personalization and recommender systems.
+
+People think it takes millions of dollars to build the same capabilities.
+
+They are wrong:
+
+1 of 3",-0.3,False,135315.0,52,12,svpino,228565,502
+2023-01-06 20:07:21+00:00,1611454393529802775,"StackOverflow is dead (but it doesn't know it yet.)
+
+ChatGPT will kill it.",-0.2,False,117653.0,20,161,svpino,228565,168
+2023-01-06 19:41:08+00:00,1611447797617664008,"Startups must decide the best way to do more with what they have, but ""not testing their code"" is usually not the correct answer.
+
+Dig deeper, and you'll realize that those recommending against testing have never done it before.",0.5416666666666666,False,30638.0,3,8,svpino,228565,74
+2023-01-06 13:40:57+00:00,1611357154514186241,"11 ways ChatGPT saves me hours of work every day, and why you'll never outcompete those who use AI effectively.
+
+A list for those who write code:
+
+1 of 16",0.6,False,5067369.0,7691,766,svpino,228565,36418
+2023-01-05 13:00:05+00:00,1610984481342771200,AI will not replace you. A person using AI will.,0.0,False,3327802.0,6027,744,svpino,228565,38800
+2023-01-04 22:03:42+00:00,1610758900541685761,"I just gave ChatGPT 200+ lines of JavaScript code and asked it to translate the code into Python. The code parses text using regular expressions. It was complex.
+
+2 minutes later and I had Python code that worked flawlessly.
+
+This thing just saved me a couple of days of work.",0.175,False,2040845.0,1466,351,svpino,228565,15879
+2023-01-04 19:00:15+00:00,1610712732642467840,"For most people and the vast majority of use cases, the ""slowness"" of Python is irrelevant.
+
+On the other hand, the speed at which you can write good Python code is a fundamental factor to make Python one of the most—if not the most—popular language out there.",0.271875,False,40575.0,16,12,svpino,228565,168
+2023-01-04 14:54:10+00:00,1610650802598600704,"Mac &gt; Windows for developing software. 
+
+Unless, of course, you are a .NET developer. I imagine Windows will be better in that case.
+
+But for everyone else, I have difficulty recommending a PC when the cost is not a factor.",0.25,False,76053.0,10,50,svpino,228565,218
+2023-01-04 13:03:12+00:00,1610622876482408454,"2022 saw tremendous interest in large-scale models, and 2023 will bring more of the same.
+
+But 99% of us can't train or fine-tune these models!
+
+For example, the company behind Stable Diffusion runs a 4,000 NVIDIA A100 GPU cluster with $50M in operating costs!
+
+A solution:",0.17738095238095233,False,138544.0,58,17,svpino,228565,371
+2023-01-03 17:39:23+00:00,1610329994638548992,"Artificial Intelligence will not replace you.
+
+Your coworkers will because they will use AI to 10x their abilities.
+
+AI is an opportunity, not a threat.",-0.6,False,59823.0,63,24,svpino,228565,408
+2023-01-03 16:54:06+00:00,1610318596793565185,"These are great practices. I do all three with only one difference:
+
+I usually don't use ""pip freeze."" Instead, I manually keep the requierements.txt file up to date.
+
+If you aren't careful, pip freeze will produce a very verbose and overcomplicated list of requirements.",0.13000000000000003,False,28675.0,5,9,svpino,228565,53
+2023-01-03 13:00:17+00:00,1610259754558930944,"Whoever unlocks an effective and efficient way to determine competency at scale will change the game.
+
+State-of-the-art interviews are not it.",0.09999999999999998,False,58222.0,11,14,svpino,228565,159
+2023-01-03 02:12:39+00:00,1610096773770678274,"Kaggle has top-notch tutorials. I find it surprising that most people aren't aware of these.
+
+I usually recommend their intro and intermediate courses to Machine Learning because they start slowly and are really easy to follow. 
+
+They are great to open people's appetite for more! https://t.co/8p5pcH9yh6",0.31333333333333335,True,365605.0,404,33,svpino,228565,2066
+2023-01-02 19:00:00+00:00,1609987891962208258,"One of the best by-products of the pandemic years for my team: 
+
+We got away from the meeting-first culture and moved into a writing-first approach.
+
+If you have an idea or something you want the team to focus on or consider, you put it in writing. 
+
+Game changer.",0.275,False,30966.0,8,12,svpino,228565,113
+2023-01-02 13:12:36+00:00,1609900467751997441,"Mark mentioned that there're guardrails around inputs before they hit the model.
+
+Another common step is to have output guardrails to prevent the model from making dumb predictions.
+
+In other words: human-generated heuristics doing some sanity checks before serving the results.",-0.2,False,25347.0,4,3,svpino,228565,61
+2023-01-02 13:00:11+00:00,1609897342878248960,"A few non-obvious skills for Data Scientists and Machine Learning Engineers:
+
+• Ability to break down problems
+• Ability to visualize data
+• Ability to scrape and collect data
+• SQL. Dealing with Relational and non-relational DBs
+• Building RESTFul APIs",-0.11851851851851854,False,83300.0,99,20,svpino,228565,531
+2023-01-01 19:00:04+00:00,1609625523625545728,"I have built a similar setup.
+
+1. Copilot — The largest upgrade I can remember to my coding setup. It changed the way I write code overnight.
+
+2. ChatGPT — It's unreal it already became a pinned tab in my browser. I'm using it more and more every day.",0.3333333333333333,False,98152.0,61,7,svpino,228565,507
+2023-01-01 13:00:11+00:00,1609534956153503744,"If you thought mastering Chess and Go was impressive, wait until you see what @DeepMind just accomplished!
+
+Right before 2022 is over, there's a new superhuman AI agent in town!
+
+Here is how it works:
+
+https://t.co/BJN3HMs1D8",0.4055194805194805,False,73602.0,34,9,svpino,228565,188
+2022-12-31 19:00:05+00:00,1609263139618717696,"You don't need to understand how neural networks work to use them effectively.
+
+As long as you understand how to work with inputs and outputs, you can use high-level libraries that do the work for you.",0.055,False,39443.0,7,11,svpino,228565,90
+2022-12-31 17:49:35+00:00,1609245395405733894,"Artificial Intelligence is already widespread and part of our lives:
+
+1. Face-ID in your phone
+2. Social media
+3. Google search
+4. Photos you take
+5. Smart home devices
+6. Maps and Traffic
+7.  Online shopping
+
+10 years is a long time, and AI is growing exponentially.",-0.10059523809523808,False,26318.0,22,4,svpino,228565,119
+2022-12-31 17:16:33+00:00,1609237081577951233,"I remember when you could read every new paper on a broad topic like Computer Vision.
+
+That time is over.
+
+Today, having a network you trust and that help you filter out the noise is more important than ever.
+
+Winning is not about reading more but about reading what matters.",0.34981060606060604,False,55857.0,19,9,svpino,228565,183
+2022-12-31 13:00:06+00:00,1609172547488346117,"Becoming competent in a subject and learning to demonstrate that competency through good communication and relevant experience is all that matters.
+
+College helps with that, but it's not the only mechanism to get there.",0.3138888888888889,False,30554.0,8,3,svpino,228565,94
+2022-12-30 23:08:09+00:00,1608963178561679361,"This is fascinating!
+
+Back in 2015, when I first started with machine learning, I wanted to do something like this for my class project. I'm a baseball fan!
+
+Soon I realized this was completely out of my competency zone.
+
+I'm glad to see this come to life now!",0.31,False,32794.0,7,4,svpino,228565,80
+2022-12-30 16:23:44+00:00,1608861402856583170,"There are elements of linear algebra that are fundamental to understanding how neural networks work. 
+
+But this is nuanced, and many people get the wrong message.
+
+Here are two different (but interesting questions) related to this:",0.1,False,73864.0,28,10,svpino,228565,140
+2022-12-30 13:00:23+00:00,1608810228249952256,"9 Python libraries that you haven't used before but are awesome:
+
+1. Pillow: Image manipulation
+2. Requests: HTTP requests
+3. Black: Formatter
+4. Poetry: Dependencies
+5. Bokeh:  Web visualizations
+6. Bowler: Refactoring
+7. Pytest: Testing
+8. Hydra: Configuration
+9. Click: CLI",0.4166666666666667,False,174273.0,355,43,svpino,228565,1980
+2022-12-29 13:00:20+00:00,1608447829680455687,"If you are a Python developer, pay special attention to the following libraries:
+
+• NumPy: Scientific computing
+• Pandas: Data analysis and manipulation
+• Seaborn: Data visualization
+
+If you want to go into machine learning, your experience here will give you a head start.",0.17857142857142858,False,208056.0,409,35,svpino,228565,2250
+2022-12-28 17:43:39+00:00,1608156739270057985,https://t.co/ni3SEHdGBN,0.0,False,27219.0,9,16,svpino,228565,45
+2022-12-28 13:00:08+00:00,1608085388350062594,"7 YouTube videos for anyone starting with machine learning in 2023.
+
+On libraries, algorithms, and tools:",0.0,False,286276.0,521,48,svpino,228565,2025
+2022-12-27 16:58:45+00:00,1607783052297572352,"Who currently has more advanced Computer Vision capabilities?
+
+(If you wanted to buy the Computer Vision tech from one of these companies, which one would you buy?)",0.3,False,24248.0,3,18,svpino,228565,18
+2022-12-27 13:00:17+00:00,1607723041966161922,"Free AI Conference in early January!
+
+Guess who will be hosting a panel? Sebastian Raschka @rasbt!
+
+If you want to stay up to date with the latest in the AI/ML field, @abacusai's conference is a must!
+
+Register to attend online: https://t.co/zu0EN2n0rJ https://t.co/eP8NmfrakW",0.3333333333333333,True,40529.0,26,4,svpino,228565,158
+2022-12-26 23:17:42+00:00,1607516029873168384,It’s so sad to see this person become a Russian mouthpiece. https://t.co/SzLzuauq2X,-0.25,True,52537.0,8,29,svpino,228565,182
